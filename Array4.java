@@ -1,5 +1,3 @@
-package day5;
-
 import java.util.Scanner;
 
 //wap to ask 5 numbers from user and print them 
@@ -24,7 +22,7 @@ public class Array4 {
 			System.out.print("  "+ p[i]);
 		}
 
-		System.out.println("sum of all array elements are ="+ sum);
+		System.out.println("sum of all array elements are =" + sum);
 	}
 
 }
